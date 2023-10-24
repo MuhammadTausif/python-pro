@@ -2,6 +2,7 @@
 # type: returns the type of any instance/veraibles
 # len: returns the length of list, dict, str
 
+
 x = "I am learning Python"
 print(x)
 
